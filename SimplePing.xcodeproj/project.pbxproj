@@ -373,6 +373,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimplePing/SimplePing-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos5.0;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -385,6 +386,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimplePing/SimplePing-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos5.0;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
